@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29d75181.chunk.css",
+    "main.js": "/static/js/main.f95f8352.chunk.js",
+    "main.js.map": "/static/js/main.f95f8352.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.815eef4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.815eef4e.js.map",
+    "static/js/2.ba5cc733.chunk.js": "/static/js/2.ba5cc733.chunk.js",
+    "static/js/2.ba5cc733.chunk.js.map": "/static/js/2.ba5cc733.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d156ca97509b2247c39a7f46f42c727d.js": "/precache-manifest.d156ca97509b2247c39a7f46f42c727d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.29d75181.chunk.css.map": "/static/css/main.29d75181.chunk.css.map",
+    "static/js/2.ba5cc733.chunk.js.LICENSE": "/static/js/2.ba5cc733.chunk.js.LICENSE",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.4c0c46c5.svg",
+    "static/media/common.scss": "/static/media/manrope-semibold.d31d5253.woff",
+    "static/media/my-photo.png": "/static/media/my-photo.5004fb41.png",
+    "static/media/telegram-icon.svg": "/static/media/telegram-icon.5a49ab2e.svg",
+    "static/media/vk-icon.svg": "/static/media/vk-icon.5be43f48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815eef4e.js",
+    "static/js/2.ba5cc733.chunk.js",
+    "static/css/main.29d75181.chunk.css",
+    "static/js/main.f95f8352.chunk.js"
+  ]
+}
